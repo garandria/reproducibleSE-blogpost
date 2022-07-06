@@ -173,5 +173,5 @@ https://github.com/google/benchmark
 
 ## Diagram
 
-    ![Diagram](ReproductibleScience-diagram.pdf)
+![Diagram](ReproductibleScience-diagram.pdf)
 
