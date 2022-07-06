@@ -2,9 +2,9 @@ Reproductible Science - groupe 3
 ================================
 
 Questions ouvertes:
-- problème du warm-up 
-- problème de la définition de l'objectif à mesurer (impact sur les outils choisis, niveau de précision de la description du protocole expérimental)
-
+    - problème du warm-up 
+    - problème de la définition de l'objectif à mesurer (impact sur les outils choisis, niveau de précision de la description du protocole expérimental)
+    
 
 ## Catégorie d'artefact
 
@@ -170,3 +170,8 @@ The pos framework: a methodology and toolchain for reproducible network experime
 https://github.com/google/benchmark
 
 ---
+
+## Diagram
+
+    ![Diagram](ReproductibleScience-diagram.pdf)
+
